@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.rowContainer {
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 30;
+  width: 100px;
+}
